@@ -1,0 +1,17 @@
+{
+  "name": "rock-log",
+  "version": "0.1.0",
+  "description": "Log helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "log",
+    "logging"
+  ],
+  "author": "Ilya 'Bacher' Lebedev <bacherko@gmail.com>",
+  "license": "ISC"
+}
