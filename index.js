@@ -77,6 +77,3 @@ globalLog.create = create;
 
 /** @type {GlobalLog} */
 module.exports = globalLog;
-
-
-create('hello').warn('BAD');
